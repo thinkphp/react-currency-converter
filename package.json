@@ -1,7 +1,7 @@
 {
   "name": "currency-converter",
   "version": "0.1.0",
-  "homepage: https://thinkphp.github.com/react-currency-converter",
+  "homepage": "https://thinkphp.github.com/react-currency-converter",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
